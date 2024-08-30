@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+
+<body>
+    <header class="header">
+        <div class="picture1">
+        <img src="cognifyz.png" class="logo"></div>
+ 
+        <nav class="navbar">
+            <a href="#"style="--i:1;" class="active">Home</a>
+            <a href="https://www.youtube.com/"style="--i:2;">About Us</a>
+            <a href="#"style="--i:3;">Services</a>
+            <a href="#"style="--i:4;">Courses</a>
+            <a href="#"style="--i:5;">Intership</a>
+            <a href="#"style="--i:6;">Contact</a>
+        </nav>
+
+        <div class="social-media">
+            <a href="https://twitter.com/Cognifyz" style="--i:1;"><i class='bx bxl-twitter'></i></a>
+            <a href=" https://www.instagram.com/cognifyz_tech" style="--i:2;"><i class='bx bxl-instagram' ></i></a>
+            <a href="https://in.linkedin.com/company/cognifyz-techonologies
+            " style="--i:3;"><i class='bx bxl-linkedin-square' ></i></a>
+            
+
+        </div>
+
+    </header> 
+
+    <section><div class="home">
+      <div class="home-content">
+        <h1>Transforming the way of Learning.</h2>
+        <p>"Face challenges as opportunities, much like Cognifyz Technologies navigates innovation. With determination and belief in your potential, every hurdle becomes a stepping stone to success."</p>
+        <a href="#" class="btn">Get Start</a>
+      </div>
+      <div class="home-img">
+        <div class="rhombus">
+            <img src="cognifyz.png" alt="">
+
+        </div>
+      </div>
+      <div class="rohmbus2"></div>
+        
+    </div></section>
+</body>
